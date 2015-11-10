@@ -1,0 +1,16 @@
+{
+  "name": "canvas-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "budo index.js:bundle.js --live --dir static --css style.css"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "budo": "^6.0.2",
+    "minidrag": "^0.1.1"
+  }
+}
