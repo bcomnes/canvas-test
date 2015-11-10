@@ -1,0 +1,23 @@
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.container {
+  height: 500px;
+  width: 500px;
+  position:relative;
+}
+
+.drag {
+  position: absolute;
+  height: 50px;
+  width: 50px;
+  background: blue;
+  top: 50%;
+  left: 50%;
+}
