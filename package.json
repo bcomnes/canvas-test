@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "budo": "^6.0.2",
+    "budo": "^10.0.3",
     "minidrag": "^0.1.1"
   }
 }
